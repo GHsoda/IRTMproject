@@ -3,7 +3,7 @@
 - **preprocessing.ipynb** 
     
     contains the data extraction, and NLTK entity extraction effort.
-- **NER_proj.ipynb ** 
+- **NER_proj.ipynb** 
     
     contains the code that uses BERT and FlairNLP for the NER tasks.
 - **entities_from_BERT.pkl** 
