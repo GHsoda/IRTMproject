@@ -9,4 +9,4 @@
 - **streamgraph.ipynb** contains the code that generated the final version of the stream graph.
 - **area_chart.html** is the stream graph generated from streamgraph.ipynb.
 - **BERTopic.ipynb** contains the code that use BERTopic and LDA.
-- **lda_topic_17_visualization.html** is the topic modeling graph generated from BERTopic.ipynb
+- **lda_topic_16_visualization.html** is the topic modeling graph generated from BERTopic.ipynb
